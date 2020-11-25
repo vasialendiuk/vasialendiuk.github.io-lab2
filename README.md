@@ -1,1 +1,1 @@
-# vasialendiuk.github.io/lab2
+# vasialendiuk.github.io
