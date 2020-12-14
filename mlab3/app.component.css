@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.conteiner{
+  width: 500px;
+  margin: auto;
+}
+
+.btn{
+  width: 257px;
+  color: black;
+  margin-top: 10px;
+  margin-left: 126px;
+}
+
+.inp{
+  width: 250px;
+  margin-left: 125px;
+}
